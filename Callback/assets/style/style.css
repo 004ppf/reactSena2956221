@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.imgMask{
+ width: 100%;
+ height: 100vh;
+ background-image: url(img/wallhaven-zxqqpj.jpg);   
+ background-position: center;
+ background-size: cover;
+}
+
+.imgMask:hover{
+    transform: rotate(50deg);
+}
